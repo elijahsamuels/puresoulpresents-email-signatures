@@ -1,5 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 5.0 Transitional//EN">
-<html>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=us-ascii
+Message-Id: <91D15F10-E5D5-4F4E-9F5B-F858894EC9BE@coltrane>
+Mime-Version: 1.0 (Mac OS X Mail 13.4 \(3608.80.23.2.2\))
+
     <head>
         <title>Email Signature</title>
         <meta content="text/css; charset=utf-8" http-equiv="Content-Type" />
@@ -8,51 +12,6 @@
             .container {
                 position: relative;
                 width: 50%;
-            }
-
-            .image {
-                display: block;
-                max-width: 250px;
-                width: 100%;
-                border: 0;
-            }
-
-            .socialIcons {
-                border: 0;
-                width: 20px;
-                padding-right: 10px;
-                text-decoration: none;
-            }
-
-            .title {
-                font-family: sans-serif;
-                color: #000000;
-                font-size: 10pt;
-                padding-bottom: 0px;
-                line-height: 18px;
-            }
-
-            .userName {
-                font-family: sans-serif;
-                color: #000000;
-                font-size: 10pt;
-                font-weight: bold;
-                padding-bottom: 0px;
-                line-height: 20px;
-            }
-
-            .table {
-                font-family: sans-serif;
-                line-height: 14px;
-            }
-
-            .legal {
-                font-family: cursive;
-                color: #808080;
-                font-size: 8pt;
-                padding-bottom: 0px;
-                padding-top: 10px;
-                line-height: 18px;
             }
 
             .overlay {
@@ -72,11 +31,6 @@
                 opacity: 1;
             }
 
-            .image2 {
-                display: block;
-                max-width: 250px;
-                width: 100%;
-            }
         </style>
     </head>
 
@@ -87,11 +41,21 @@
             cellpadding="0"
             cellspacing="0"
             font-size="9pt"
-            class="table"
+            style="font-family: sans-serif; line-height: 14px"
         >
             <tbody>
                 <tr>
-                    <td width="500" class="userName">
+                    <td
+                        width="500"
+                        style="
+                            font-family: sans-serif;
+                            color: #000000;
+                            font-size: 10pt;
+                            font-weight: bold;
+                            padding-bottom: 0px;
+                            line-height: 20px;
+                        "
+                    >
                         - - -
                         <br />
                         Elijah Samuels
@@ -99,18 +63,30 @@
                 </tr>
 
                 <tr>
-                    <td class="title">Chief Operations Officer</td>
+                    <td
+                        style="
+                            font-family: sans-serif;
+                            color: #000000;
+                            font-size: 10pt;
+                            padding-bottom: 0px;
+                            line-height: 18px;
+                        "
+                    >
+                        Title
+                    </td>
                 </tr>
 
                 <tr>
-                    <td class="title">
-                        <a
-                            href="tel:4157244341"
-                            target="_blank"
-                            style="text-decoration: none"
-                        >
-                            (415) 724-4341
-                        </a>
+                    <td
+                        style="
+                            font-family: sans-serif;
+                            color: #000000;
+                            font-size: 10pt;
+                            padding-bottom: 0px;
+                            line-height: 18px;
+                        "
+                    >
+                        (415) 724-4341
                     </td>
                 </tr>
 
@@ -122,15 +98,24 @@
                         >
                             <div class="container">
                                 <img
-                                    alt="PureSoul Prsents"
-                                    class="image2"
+                                    alt="Logo"
+                                    style="
+                                        display: block;
+                                        max-width: 250px;
+                                        width: 100%;
+                                    "
                                     src="https://drive.google.com/uc?id=1d2NgiQkqaWUPI0mbAnyW-tgzq2ChXp-s"
                                 />
 
                                 <div class="overlay">
                                     <img
-                                        alt="PureSoul Prsents"
-                                        class="image"
+                                        alt="Logo"
+                                        style="
+                                            display: block;
+                                            max-width: 250px;
+                                            width: 100%;
+                                            border: 0;
+                                        "
                                         src="https://drive.google.com/uc?id=1HmsOyPVGtnaaFrUBdkPZt8SMn4AutHkY"
                                     />
                                 </div>
@@ -150,7 +135,12 @@
                             >
                                 <img
                                     alt="Facebook"
-                                    class="socialIcons"
+                                    style="
+                                        border: 0;
+                                        width: 20px;
+                                        padding-right: 10px;
+                                        text-decoration: none;
+                                    "
                                     src="https://drive.google.com/uc?id=1xzMsmRRETRWWirIRG3cNtOpQUo8vN7JF"
                                 />
                             </a>
@@ -161,7 +151,12 @@
                             >
                                 <img
                                     alt="Instagram"
-                                    class="socialIcons"
+                                    style="
+                                        border: 0;
+                                        width: 20px;
+                                        padding-right: 10px;
+                                        text-decoration: none;
+                                    "
                                     src="https://drive.google.com/uc?id=1zqgoyWhhO1IAxLBiZKPCYUPx_Arvik-c"
                                 />
                             </a>
@@ -172,7 +167,12 @@
                             >
                                 <img
                                     alt="Twitter"
-                                    class="socialIcons"
+                                    style="
+                                        border: 0;
+                                        width: 20px;
+                                        padding-right: 10px;
+                                        text-decoration: none;
+                                    "
                                     src="https://drive.google.com/uc?id=1f8gSj34nUwL9FhfysKju5wypCAo1J77e"
                                 />
                             </a>
@@ -180,7 +180,16 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="legal">
+                    <td
+                        style="
+                            font-family: cursive;
+                            color: #808080;
+                            font-size: 8pt;
+                            padding-bottom: 0px;
+                            padding-top: 10px;
+                            line-height: 18px;
+                        "
+                    >
                         Legal Notice: This email is for use by the addressee
                         only and contains confidential information that must not
                         be divulged. If this message has been received in error,
@@ -195,4 +204,3 @@
             </tbody>
         </table>
     </body>
-</html>
